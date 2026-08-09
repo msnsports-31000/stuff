@@ -11,3 +11,6 @@ Network Speed Test color: 009E49
 City Art Search color: 8C0200
 PhotoFunia color: ef6800
 Windows Central color: D80073
+8Zip color: 7E1335
+Files&Folders color: E9AE30
+Metro Commander color: 00756F
