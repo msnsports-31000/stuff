@@ -10,3 +10,4 @@ Alarms color: AC193D
 Network Speed Test color: 009E49
 City Art Search color: 8C0200
 PhotoFunia color: ef6800
+Windows Central color: D80073
