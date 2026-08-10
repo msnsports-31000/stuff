@@ -19,3 +19,4 @@ Bank Of America color: D62027/D4001A
 Xbox Games color: 008A00
 Xbox Music color: D24726
 Xbox Video color:AC193D
+Piano Time Pro color: F09609
