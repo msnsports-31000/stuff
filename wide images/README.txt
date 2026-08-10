@@ -20,3 +20,4 @@ Xbox Games color: 008A00
 Xbox Music color: D24726
 Xbox Video color:AC193D
 Piano Time Pro color: F09609
+VLC color: ff8800
