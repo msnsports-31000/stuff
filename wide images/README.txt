@@ -25,3 +25,4 @@ Groove: Smart Music Player color: fd6c00
 Vinyle color: 0064b4
 WindowsBlogItalia color: 238E9A
 Reddit2Go color: 5F99CF
+Windows Phone App: 00bcf2
