@@ -22,3 +22,4 @@ Xbox Video color:AC193D
 Piano Time Pro color: F09609
 VLC color: ff8800
 Groove: Smart Music Player color: fd6c00
+Vinyle color: 0064b4
