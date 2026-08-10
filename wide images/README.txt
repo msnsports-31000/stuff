@@ -16,3 +16,6 @@ Files&Folders color: E9AE30
 Metro Commander color: 00756F
 Good plan color: 5d4484
 Bank Of America color: D62027/D4001A
+Xbox Games color: 008A00
+Xbox Music color: D24726
+Xbox Video color:AC193D
