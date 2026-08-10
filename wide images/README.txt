@@ -14,3 +14,5 @@ Windows Central color: D80073
 8Zip color: 7E1335
 Files&Folders color: E9AE30
 Metro Commander color: 00756F
+Good plan color: 5d4484
+Bank Of America color: D62027/D4001A
