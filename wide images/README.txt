@@ -26,3 +26,5 @@ Vinyle color: 0064b4
 WindowsBlogItalia color: 238E9A
 Reddit2Go color: 5F99CF
 Windows Phone App: 00bcf2
+BBC Good Food color: e03f10
+BBC Good Food Magazine color: cc0000
