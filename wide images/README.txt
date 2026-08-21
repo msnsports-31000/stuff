@@ -1,4 +1,4 @@
-All colors of the transparent images will be here.
+All colors of the transparent images will be here. NOTE: This README will no longer be edited so some stuff will be outdated.
 MSN Food & Drink color: 008299
 MSN Health & Fitness color: D24726
 MSN Money color: 008A00
